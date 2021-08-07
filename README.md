@@ -21,4 +21,4 @@ Cara menggunakan :
 5. Sesuaikan koneksi database pada file koneksi
 6. Buka aplikasi pada browser sama dengan nama folder pada htdocs (localhost/nama_web)
 
-Jika anda tertarik mempelajari atau ingin mengembangkan program sistem pakar  metode case base reasoning ini. Silahkan anda unduh source code aplikasi sistem pakar berbasis php dan mysql ini sebagai referensi pembelajaran pengembangan program dengan php
+Jika anda tertarik mempelajari atau ingin mengembangkan program sistem pakar  metode case base reasoning ini. Silahkan anda unduh source code aplikasi sistem pakar berbasis php dan mysql ini sebagai referensi pembelajaran pengembangan program dengan php.
